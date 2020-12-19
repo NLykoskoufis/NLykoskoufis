@@ -28,7 +28,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="NLykoskoufis's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NLykoskoufis&show_icons=true&hide_border=true" />
+  <img align="left" alt="NLykoskoufis's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NLykoskoufis&show_icons=true&hide_border=true&theme=dracula" />
 
 </details>
 
