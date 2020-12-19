@@ -13,7 +13,7 @@
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="Python3" width="26px" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" />][webdevplaylist]
+[<img align="left" alt="Python3" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" />][webdevplaylist]
 [<img align="left" alt="R" width="26px" src="https://www.r-project.org/logo/Rlogo.png" />][webdevplaylist]
 [<img align="left" alt="C++" width="26px" src="https://github.com/isocpp/logos/blob/master/cpp_logo.png" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
