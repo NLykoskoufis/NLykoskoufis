@@ -1,7 +1,5 @@
 ### Hi there, I'm Nikos 
 
-## I'm a Bioinformatics engineer at NGS-AI JSR Lifesciences
-
 ### Connect with me:
 
 [<img align="left" alt="lykoskoufis | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
