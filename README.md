@@ -23,12 +23,6 @@
 ---
 
 
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="NLykoskoufis's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=NLykoskoufis&show_icons=true&hide_border=true&theme=onedark&count_private=true" />
-
-
-
 [twitter]: https://twitter.com/lykoskoufis
 [instagram]: https://instagram.com/nicolaslykos
 [linkedin]: https://www.linkedin.com/in/nikolaos-lykoskoufis-45a4a2139
